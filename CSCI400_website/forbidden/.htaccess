@@ -1,0 +1,4 @@
+Order deny,allow
+RewriteEngine On
+Options -Indexes
+Deny from All
